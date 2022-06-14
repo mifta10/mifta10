@@ -17,3 +17,7 @@
 😄 Pronouns: He/His
 
 ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
+
+✍️Random Dev Quote
+
