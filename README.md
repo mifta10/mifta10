@@ -10,9 +10,9 @@
 
 🤔 I’m looking for help with VelocityX documentation.
 
-💬 Ask me about Flutter or any tech-related stuff.
+💬 Ask me about ReactJs or any tech-related stuff.
 
-📫 How to reach me: Twitter - @imthepk , Youtube - Codepur
+📫 How to reach me: Instagram - tahmid__khan , Facebook - Tahmid Khan
 
 😄 Pronouns: He/His
 
