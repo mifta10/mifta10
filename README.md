@@ -1,6 +1,6 @@
 ## Hello, I'm [Mifta Uddin Khan!]([https://pawan.live](https://mifta-uddin-khan.web.app/)) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="mifta" /> </p>
 
 # 💫About Me :
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
